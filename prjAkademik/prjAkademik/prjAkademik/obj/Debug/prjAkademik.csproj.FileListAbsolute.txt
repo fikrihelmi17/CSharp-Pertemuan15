@@ -1,0 +1,28 @@
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\bin\Debug\prjAkademik.exe.config
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\bin\Debug\prjAkademik.exe
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\bin\Debug\prjAkademik.pdb
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csprojAssemblyReference.cache
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.Form1.resources
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.Properties.Resources.resources
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csproj.GenerateResource.cache
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csproj.CoreCompileInputs.cache
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.exe
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.pdb
+C:\Users\DILES SINAGA\source\repos\prjAkademik\prjAkademik\obj\Debug\prjAkademik.FRS.resources
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\bin\Debug\prjAkademik.exe.config
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\bin\Debug\prjAkademik.exe
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\bin\Debug\prjAkademik.pdb
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csprojAssemblyReference.cache
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.Form1.resources
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.FRS.resources
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.Properties.Resources.resources
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csproj.GenerateResource.cache
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csproj.CoreCompileInputs.cache
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.exe
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.pdb
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\bin\Debug\MySql.Data.dll
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\bin\Debug\MySql.Data.xml
+C:\Users\DILES SINAGA\Documents\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.csproj.CopyComplete
+D:\Program\C#\Tugas_Kalkulator\Akademik\Pertemuan 15 Pemograman III\prjAkademik\prjAkademik\prjAkademik\bin\Debug\prjAkademik.exe.config
+D:\Program\C#\Tugas_Kalkulator\Akademik\Pertemuan 15 Pemograman III\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.exe
+D:\Program\C#\Tugas_Kalkulator\Akademik\Pertemuan 15 Pemograman III\prjAkademik\prjAkademik\prjAkademik\obj\Debug\prjAkademik.pdb
